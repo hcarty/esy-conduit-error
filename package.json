@@ -1,0 +1,10 @@
+{
+  "name": "conduit-error",
+  "version": "0.1.0",
+  "description": "Illustrate error building conduit under esy",
+  "license": "MIT",
+  "dependencies": {
+    "@opam/conduit-lwt-unix": "*",
+    "ocaml": "~4.7.1"
+  }
+}
